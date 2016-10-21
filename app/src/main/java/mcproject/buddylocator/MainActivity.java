@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void test()
     {
-        String forTest = "Just for testing";
+        String forTesting = "Just for testing";
     }
 }
